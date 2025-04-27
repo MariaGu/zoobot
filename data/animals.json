@@ -1,0 +1,39 @@
+{
+  "тигр": {
+    "name": "АМУРСКИЙ ТИГР",
+    "description": "Вы — благородный аристократ джунглей: целый день отдыхаете в тени, а Ваш выход заставляет солнце позеленеть от зависти.",
+    "image": "media/images/tiger.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/amurskiy_tigr"
+  },
+  "пингвин": {
+    "name": "ПИНГВИН АФРИКАНСКИЙ",
+    "description": "Вы — душа ледяной вечеринки: Ваше пингвинье обаяние растопит любой айсберг, а плечо дружбы всегда в Вашем распоряжении.",
+    "image": "media/images/pinguin.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/pingvin_afrikanskiy_ochkovyy"
+  },
+  "медведь": {
+    "name": "БУРЫЙ МЕДВЕДЬ",
+    "description": "Вы — мастер долгой дремы и гурман плотных обедов: после сытного перекуса сладко сопите до заката. А если кто-то осмелится нарушить Вашу трапезу — коготки в помощь!",
+    "image": "media/images/bear.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/buryy_medved"
+  },
+  "попугай": {
+    "name": "ОРЛИНЫЙ ПОПУГАЙ",
+    "description": "Вы — непревзойдённый рассказчик с экзотическим акцентом: каждое Ваше чириканье — хит вечера, а попытки заткнуть Вас только подогревают интерес.",
+    "image": "media/images/parrot.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/orlinyy_popugay"
+  },
+  "фламинго": {
+    "name": "РОЗОВЫЙ ФЛАМИНГО",
+    "description": "Вы — ходячий фэшн-блогер на одной ноге: каждое движение — повод для селфи, а Ваш розовый шарм способен украсить даже самый хмурый день.",
+    "image": "media/images/flamingo.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/rozovyy_flamingo"
+  },
+  "сурикат": {
+    "name": "СУРИКАТ",
+    "description": "Вы — генеральный диспетчер колонии: замечаете малейший шорох за версту, собираете стаю и доводите любое дело до блестящего результата.",
+    "image": "media/images/meerkat.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/surikat"
+  }
+}
+  
